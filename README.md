@@ -1,2 +1,2 @@
 # web3sd
-learning web3 app 
+latest tech web3 app
